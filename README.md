@@ -1,2 +1,1 @@
-# AsteroidsPygame
-AsteroidsPygame
+my first project
